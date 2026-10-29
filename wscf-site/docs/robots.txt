@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://warmspringscarefarm.org/sitemap.xml
